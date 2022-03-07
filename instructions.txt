@@ -12,7 +12,7 @@ Student Number: 170044
 
 PART ONE: Classes & Constructors
  - The classes and constructors directory, and required files have been created for you.
- - All assessment instructions for this section can be found in the index.js file.
+ - All assessment instructions for this section can be found in the index.js file
 
 PART TWO: React, Routing & Axios
  - The myreactapp directory has been created for you.
