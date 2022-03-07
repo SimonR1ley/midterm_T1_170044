@@ -1,0 +1,12 @@
+html, body, h1, p, ul, li {
+  margin: 0;
+  padding: 0;
+}
+
+.nav{
+  width: 25%;
+  height: 100vh;
+  background-color: red;
+  color: white;
+  float: left;
+}
